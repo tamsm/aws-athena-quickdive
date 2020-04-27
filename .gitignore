@@ -1,0 +1,11 @@
+# Edit
+.idea/
+
+# Infra
+infra/.terraform/
+*.tfstate.*
+*.tfstate
+
+# Local files
+data/
+queries/
